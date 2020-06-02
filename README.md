@@ -1,1 +1,1 @@
-# GraphDB-RDF-docs
+# GraphDBs & RDF stores docs
