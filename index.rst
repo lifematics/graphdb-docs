@@ -5,3 +5,4 @@ Graph databases and RDF stores documentation
    :maxdepth: 2
 
    contents/overview
+   contents/virtuoso
