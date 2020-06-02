@@ -1,2 +1,1 @@
-# graphdb-docs
-Triple Stores and Graph Databases Documentations
+# Graph databases and RDF stores documentations
